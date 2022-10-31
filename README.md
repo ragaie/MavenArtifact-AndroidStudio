@@ -16,6 +16,14 @@ Let's Start :
 
 2- Will find two video for working demo
 
+## here small gif for result on android and desktop
+
+Android            |  Maven
+:-------------------------:|:-------------------------:
+![Android result](https://github.com/ragaie/MavenArtifact-AndroidStudio/blob/main/mobile-record.gif) | ![](https://github.com/ragaie/MavenArtifact-AndroidStudio/blob/main/desktop-record.gif)
+
+
+
 3- Two folders for android project & maven (Maven App, Android App)
 
 4- open maven project you will most important file 
