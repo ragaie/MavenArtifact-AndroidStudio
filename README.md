@@ -1,5 +1,3 @@
-# MavenArtifact-AndroidStudio
-
 # Create maven artifact && With android studio
 
 Happy reading time:
